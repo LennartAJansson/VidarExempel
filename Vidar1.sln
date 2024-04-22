@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34723.18
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vidar1", "Vidar1\Vidar1.csproj", "{CFB9AF81-B08E-4A48-88F3-B10DED7EC622}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extensions", "Extensions\Extensions.csproj", "{951AAA06-AA08-485B-9A04-4DFFBEFEC59F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{CFB9AF81-B08E-4A48-88F3-B10DED7EC622}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CFB9AF81-B08E-4A48-88F3-B10DED7EC622}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CFB9AF81-B08E-4A48-88F3-B10DED7EC622}.Release|Any CPU.Build.0 = Release|Any CPU
+		{951AAA06-AA08-485B-9A04-4DFFBEFEC59F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{951AAA06-AA08-485B-9A04-4DFFBEFEC59F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{951AAA06-AA08-485B-9A04-4DFFBEFEC59F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{951AAA06-AA08-485B-9A04-4DFFBEFEC59F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

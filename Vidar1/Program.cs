@@ -3,6 +3,7 @@ using Microsoft.Extensions.Hosting;
 
 using Vidar1;
 
+
 var builder = Host.CreateApplicationBuilder(args);
 builder.Services.AddHostedService<Worker>();
 builder.Services.AddTransient<IService, Service>();
